@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mottee BARHOOM</h1>
-<h3 align="center">Network and Operating Systems Engineer</h3>
+<h3 align="center"> Master's student at ITMO University </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mottee-barhoom&label=Profile%20views&color=0e75b6&style=flat" alt="mottee-barhoom" /> </p>
 
