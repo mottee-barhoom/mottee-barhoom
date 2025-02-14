@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mottee-barhoom&label=Profile%20views&color=0e75b6&style=flat" alt="mottee-barhoom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mottee-barhoom" alt="mottee-barhoom" /></a> </p>
-
 - 🔭 I’m currently a **Master's student in Information Security** at **ITMO University, Russia**
 
 - 🌱 I’m currently learning **DevOps, Python, and Machine Learning**
