@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mottee-barhoom" alt="mottee-barhoom" /></a> </p>
 
-- 🔭 I’m currently Student at **ITMO University**
+- 🔭 I’m currently a **Master's student in Information Security** at **ITMO University, Russia**
 
 - 🌱 I’m currently learning **DevOps - python - Machine learning**
 
