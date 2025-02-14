@@ -34,5 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mottee-barhoom&show_icons=true&locale=en" alt="mottee-barhoom" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mottee-barhoom&" alt="mottee-barhoom" /></p>
+
 📌 Quote
 "Technology is best when it brings people together."
