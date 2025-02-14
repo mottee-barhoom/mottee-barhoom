@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently a **Master's student in Information Security** at **ITMO University, Russia**
 
-- 🌱 I’m currently learning **DevOps - python - Machine learning**
+- 🌱 I’m currently learning **DevOps, Python, and Machine Learning**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +16,6 @@
 <a href="https://fb.com/https://www.facebook.com/mottee.barhoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mottee.barhoom" height="30" width="40" /></a>
 </p>
 <h3 align="left"> 🎓 Education </h3>
-<p align="left">🎓 MSc in Information Security - ITMO University, Russia (2023 - Present)</p>
 <p align="left">🎓 BSc in Network & Operating Systems Engineering - HIAST, Syria (2016 - 2021)</p>
 
 <h3 align="left"> Certifications & Skills: </h3>
