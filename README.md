@@ -1,7 +1,3 @@
-Here is your **GitHub Profile README** based on your CV:
-
----
-
 ### **📌 Mottee Barhoom | Network & Security Engineer**  
 🚀 **Master's Student in Information Security at ITMO University**  
 🔍 **Passionate about Cybersecurity, Kubernetes Security, and Cloud Computing**  
@@ -77,14 +73,3 @@ I am always striving to stay up to date with **technological advancements** and 
 
 ### **📌 Quote**
 _"Technology is best when it brings people together."_  
-
----
-
-### **📜 How to Use This README**
-1. **Fork this repository** or copy the README.md content into your GitHub profile.
-2. **Replace `yourusername`** in links with your actual GitHub username.
-3. **Customize it further** based on your preferences!
-
----
-
-This **GitHub README** will make your profile **stand out**! 🚀 Let me know if you need modifications. 😃
