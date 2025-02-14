@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Student at **ITMO University**
 
-- 🌱 I’m currently learning **DevOps - python**
+- 🌱 I’m currently learning **DevOps - python - Machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,11 +20,10 @@
 
 <h3 align="left"> Certifications & Skills: </h3>
 <p align="left">🔹 CCNA, CCNP (Networking)</p>
-<p align="left">🔹 Linux Administration</p>
+<p align="left">🔹 Linux & Windows Server Administration</p>
 <p align="left">🔹 Firewalls & Security (pfSense, MikroTik)</p>
-<p align="left">🔹 VMware vCenter, OpenStack</p>
-<p align="left">🔹 Containerization (Docker, Kubernetes)</p>
-<p align="left">🔹 Programming: Python, Bash, PHP Laravel</p>
+<p align="left">🔹 VMware vCenter</p>
+<p align="left">🔹 Containerization (Docker)</p>
 <p align="left">🔹 Cloud Computing (AWS, OpenStack)</p>
 <p align="left">🔹 Ansible for Network Automation</p>
 
@@ -34,3 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mottee-barhoom&show_icons=true&locale=en&layout=compact" alt="mottee-barhoom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mottee-barhoom&show_icons=true&locale=en" alt="mottee-barhoom" /></p>
+
+📌 Quote
+"Technology is best when it brings people together."
